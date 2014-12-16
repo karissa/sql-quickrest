@@ -1,0 +1,25 @@
+{
+  "name": "sql-quickrest",
+  "version": "1.0.0",
+  "description": "a sql plugin for quickrest module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karissa/sql-quickrest.git"
+  },
+  "keywords": [
+    "sql",
+    "rest",
+    "quickrest",
+    "api"
+  ],
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "bsd",
+  "bugs": {
+    "url": "https://github.com/karissa/sql-quickrest/issues"
+  },
+  "homepage": "https://github.com/karissa/sql-quickrest"
+}
